@@ -1,0 +1,262 @@
+[
+    {
+        "imdbID": "tt0111161",
+        "Title": "The Shawshank Redemption",
+        "Year": "1994",
+        "Poster": "https://m.media-amazon.com/images/I/51EZXDOXBfL._AC_.jpg",
+        "Plot": "Dois homens presos criam um vínculo ao longo de anos...",
+        "Director": "Frank Darabont",
+        "Actors": "Tim Robbins, Morgan Freeman",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0068646",
+        "Title": "The Godfather",
+        "Year": "1972",
+        "Poster": "https://m.media-amazon.com/images/I/510L5ypQBdL._AC_SY679_.jpg",
+        "Plot": "Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios.",
+        "Director": "Francis Ford Coppola",
+        "Actors": "Marlon Brando, Al Pacino",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0816692",
+        "Title": "Interestellar",
+        "Year": "2014",
+        "Poster": "https://m.media-amazon.com/images/I/71qzTzxzoCL._SY342_.jpg",
+        "Plot": "Em um futuro próximo, a Terra enfrenta uma crise alimentar global. Um grupo de exploradores viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.",
+        "Director": "Christopher Nolan",
+        "Actors": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0145487",
+        "Title": "Homem-Aranha",
+        "Year": "2002",
+        "Poster": "//upload.wikimedia.org/wikipedia/pt/thumb/1/14/Spide-Man_Poster.jpg/250px-Spide-Man_Poster.jpg",
+        "Plot": "Ao ser picado por uma aranha geneticamente modificada em uma demonstração científica, o jovem nerd Peter Parker ganha superpoderes. Inicialmente, ele pretende usá-los para ganhar dinheiro, adotando o nome de Homem-Aranha e se apresentando em lutas de exibição. Porém, ao presenciar o assassinato de seu tio Ben e sentir-se culpado, Peter decide não mais usar seus poderes para proveito próprio e sim para enfrentar o mal, tendo como seu primeiro grande desafio o psicótico Duende Verde.",
+        "Director": "Sam Raimi",
+        "Actors": "Tobey Maguire, Willem Dafoe, Kirsten Dunst",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt1034415",
+        "Title": "Telefone Preto",
+        "Year": "2022",
+        "Poster": "https://upload.wikimedia.org/wikipedia/pt/e/ed/The_Black_Phone_2022.jpg",
+        "Plot": "Um adolescente é sequestrado por um assassino e trancado em uma sala com um telefone desconectado que começa a tocar, recebendo ligações de vítimas anteriores.",
+        "Director": "Scott Derrickson",
+        "Actors": "Ethan Hawke, Mason Thames, Madeleine McGraw",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0070047",
+        "Title": "O Exorcista",
+        "Year": "1973",
+        "Poster": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/2353-cartaz.jpg",
+        "Plot": "Uma jovem garota é possuída por uma entidade demoníaca, e dois padres tentam exorcizá-la.",
+        "Director": "William Friedkin",
+        "Actors": "Ellen Burstyn, Max von Sydow, Linda Blair",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0080761",
+        "Title": "Sexta-Feira 13",
+        "Year": "1980",
+        "Poster": "https://upload.wikimedia.org/wikipedia/pt/b/b7/Sexta_Feira_13_%281980%29.jpg",
+        "Plot": "Um grupo de conselheiros de um acampamento de verão é perseguido por um assassino misterioso.",
+        "Director": "Sean S. Cunningham",
+        "Actors": "Betsy Palmer, Adrienne King, Jeannine Taylor",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0077651",
+        "Title": "Halloween",
+        "Year": "1978",
+        "Poster": "https://image.tmdb.org/t/p/original/mVQ8Lb7FhQXPqkQv0QCNbEwp9a6.jpg",
+        "Plot": "Uma jovem é perseguida por um assassino mascarado em uma noite de Halloween.",
+        "Director": "John Carpenter",
+        "Actors": "Jamie Lee Curtis, Donald Pleasence, Tony Moran",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0119789",
+        "Title": "Eu Sei o que Vocês Fizeram no Verão Passado",
+        "Year": "1997",
+        "Poster": "https://www.papodecinema.com.br/wp-content/uploads/2025/04/20250403-eu-sei-o-que-voces-fizeram-no-verao-passado-papo-de-cinema-cartaz.webp",
+        "Plot": "Quatro amigos tentam esconder um acidente fatal, mas um ano depois, começam a ser perseguidos por um assassino que sabe o que fizeram.",
+        "Director": "Jim Gillespie",
+        "Actors": "Jennifer Love Hewitt, Sarah Michelle Gellar, Ryan Phillippe",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0137523",
+        "Title": "Clube da Luta",
+        "Year": "1999",
+        "Poster": "https://br.web.img3.acsta.net/r_1280_720/pictures/23/07/18/20/39/3161686.jpg",
+        "Plot": "Jack, um executivo jovem e insatisfeito com sua vida medíocre, sofre de insônia crônica. Em busca de alívio, ele participa de grupos de autoajuda, onde conhece Marla Singer (Helena Bonham Carter), uma mulher excêntrica. Sua vida dá uma reviravolta quando conhece Tyler Durden (Brad Pitt), um vendedor de sabonetes carismático. Juntos, eles fundam um clube secreto onde homens se reúnem para lutar como forma de terapia. O que começa como um escape se transforma em um movimento anárquico que desafia as normas da sociedade.",
+        "Director": "David Fincher",
+        "Actors": "Brad Pitt, Edward Norton, Helena Bonham Carter",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0099685",
+        "Title": "Batman: O Retorno",
+        "Year": "1992",
+        "Poster": "https://upload.wikimedia.org/wikipedia/pt/8/83/Batman_returns_poster2.jpg",
+        "Plot": "Batman enfrenta o Pinguim e a Mulher-Gato enquanto protege Gotham City.",
+        "Director": "Tim Burton",
+        "Actors": "Michael Keaton, Danny DeVito, Michelle Pfeiffer",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0114709",
+        "Title": "Toy Story",
+        "Year": "1995",
+        "Poster": "https://upload.wikimedia.org/wikipedia/pt/a/a7/Toy_Story_1995.jpg",
+        "Plot": "Os brinquedos de um menino ganham vida e enfrentam desafios quando um novo brinquedo chega à casa.",
+        "Director": "John Lasseter",
+        "Actors": "Tom Hanks, Tim Allen, Don Rickles",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "05",
+        "Title": "Star Wars: O Império Contra-Ataca",
+        "Year": "1980",
+        "Poster": "https://upload.wikimedia.org/wikipedia/pt/5/5c/The_Empire_Strikes_Back.jpg",
+        "Plot": "Luke Skywalker treina para se tornar um Jedi enquanto o Império persegue os rebeldes.",
+        "Director": "Irvin Kershner",
+        "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0468569",
+        "Title": "Batman: O Cavaleiro das Trevas",
+        "Year": "2008",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+        "Plot": "Batman luta para proteger Gotham enquanto enfrenta o caos trazido pelo Coringa.",
+        "Director": "Christopher Nolan",
+        "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0214341",
+        "Title": "Dragon Ball Z: A Batalha dos Deuses",
+        "Year": "2013",
+        "Poster": "//upload.wikimedia.org/wikipedia/pt/thumb/2/27/Dragon_Ball_Z_O_Renascimento_de_Freeza.jpg/250px-Dragon_Ball_Z_O_Renascimento_de_Freeza.jpg",
+        "Plot": "Após uma longa paz, uma nova ameaça surge quando Bills, o Deus da Destruição, desperta e desafia Goku e seus amigos.",
+        "Director": "Masahiro Hosoda",
+        "Actors": "Masako Nozawa, Masakazu Morita, Megumi Han",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0099864",
+        "Title": "It: Uma Obra-Prima do Medo",
+        "Year": "1990",
+        "Poster": "https://upload.wikimedia.org/wikipedia/pt/3/34/It_1990.jpg",
+        "Plot": "Um grupo de crianças enfrenta uma entidade maligna que assume a forma de um palhaço chamado Pennywise.",
+        "Director": "Tommy Lee Wallace",
+        "Actors": "Tim Curry, Richard Thomas, John Ritter",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt5052448",
+        "Title": "Corra! (Get Out)",
+        "Year": "2017",
+        "Poster": "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png",
+        "Plot": "Um jovem negro visita a família de sua namorada branca, mas descobre um segredo assustador.",
+        "Director": "Jordan Peele",
+        "Actors": "Daniel Kaluuya, Allison Williams, Bradley Whitford",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0013442",
+        "Title": "Nosferatu, uma Sinfonia do Horror",
+        "Year": "1922",
+        "Poster": "https://ingresso-a.akamaihd.net/prd/img/movie/nosferatu-uma-sinfonia-do-horror/87364b32-53e0-46cb-b54a-c7fac0eca436.webp",
+        "Plot": "Um agente imobiliário viaja para a Transilvânia e encontra o vampiro Conde Orlok.",
+        "Director": "F. W. Murnau",
+        "Actors": "Max Schreck, Gustav von Wangenheim, Greta Schröder",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0054215",
+        "Title": "Psicose",
+        "Year": "1960",
+        "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg/800px-Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg",
+        "Plot": "Uma jovem rouba dinheiro e foge, encontrando refúgio no isolado Motel Bates.",
+        "Director": "Alfred Hitchcock",
+        "Actors": "Anthony Perkins, Janet Leigh, Vera Miles",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0081505",
+        "Title": "O Iluminado",
+        "Year": "1980",
+        "Poster": "https://br.web.img3.acsta.net/c_310_420/pictures/14/10/10/19/21/152595.jpg",
+        "Plot": "Um homem enlouquece lentamente enquanto cuida de um hotel isolado durante o inverno.",
+        "Director": "Stanley Kubrick",
+        "Actors": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt1365510",
+        "Title": "Deadpool",
+        "Year": "2016",
+        "Poster": "//upload.wikimedia.org/wikipedia/pt/thumb/3/3b/Deadpool_2016.jpg/250px-Deadpool_2016.jpg",
+        "Plot": "Um mercenário desbocado equipado com poderes regenerativos decide usar sua nova identidade para se vingar e quebrar a quarta parede com bom humor e violência.",
+        "Director": "Tim Miller",
+        "Actors": "Ryan Reynolds, Morena Baccarin, Ed Skrein",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt6263850",
+        "Title": "Deadpool & Wolverine",
+        "Year": "2024",
+        "Poster": "//upload.wikimedia.org/wikipedia/pt/thumb/2/2a/Deadpool_%26_Wolverine_cartaz.jpg/250px-Deadpool_%26_Wolverine_cartaz.jpg",
+        "Plot": "Deadpool e Wolverine unem‑se para uma missão eletrizante que mistura humor, ação e caos no multiverso Marvel.",
+        "Director": "Shawn Levy",
+        "Actors": "Ryan Reynolds, Hugh Jackman, Morena Baccarin",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0110912",
+        "Title": "Pulp Fiction: Tempo de Violência",
+        "Year": "1994",
+        "Poster": "//upload.wikimedia.org/wikipedia/pt/thumb/8/82/Pulp_Fiction_cover.jpg/250px-Pulp_Fiction_cover.jpg",
+        "Plot": "Tramas se entrelaçam envolvendo gangsters, boxeadores, assassinos de aluguel e esposas de criminosos em Los Angeles, num jogo de humor negro, diálogo afiado e violência estilizada.",
+        "Director": "Quentin Tarantino",
+        "Actors": "John Travolta, Uma Thurman, Samuel L. Jackson",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt1375666",
+        "Title": "A Origem",
+        "Year": "2010",
+        "Poster": "//upload.wikimedia.org/wikipedia/pt/thumb/8/84/AOrigemPoster.jpg/250px-AOrigemPoster.jpg",
+        "Plot": "Um ladrão especializado em extrair segredos do subconsciente é encarregado de implantar uma ideia na mente de um alvo. Conforme a missão se desenrola, ele percebe que está além do que imaginava e que as camadas de sonho e realidade se misturam.",
+        "Director": "Christopher Nolan",
+        "Actors": "Leonardo DiCaprio, Joseph Gordon‑Levitt, Ellen Page",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt6751668",
+        "Title": "Parasita",
+        "Year": "2019",
+        "Poster": "//upload.wikimedia.org/wikipedia/pt/thumb/b/be/Parasite_poster.jpg/250px-Parasite_poster.jpg",
+        "Plot": "Uma família pobre infiltra‑se na vida de uma família rica e desencadeia consequências inesperadas e sombrias…",
+        "Director": "Bong Joon‑ho",
+        "Actors": "Song Kang‑ho, Lee Sun‑kyun, Cho Yeo‑jeong",
+        "Type": "movie"
+    },
+    {
+        "imdbID": "tt0081573",
+        "Title": "Superman II – A Aventura Continua",
+        "Year": "1980",
+        "Poster": "//upload.wikimedia.org/wikipedia/pt/thumb/3/36/Superman_II.jpg/250px-Superman_II.jpg",
+        "Plot": "Três criminosos kryptonianos fugitivos da Zona Fantasma aterrorizam a Terra enquanto o Super‑Homem, que abriu mão de seus poderes para viver ao lado de Lois Lane, precisa recuperá‑los para salvar a humanidade.",
+        "Director": "Richard Lester, Richard Donner",
+        "Actors": "Christopher Reeve, Margot Kidder, Gene Hackman",
+        "Type": "movie"
+    }
+]
